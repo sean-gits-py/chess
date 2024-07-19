@@ -1,0 +1,8 @@
+flask
+numpy
+pandas
+ipython
+opencv-python
+pytesseract
+pdf2image
+python-chess
