@@ -3,6 +3,8 @@ numpy
 pandas
 ipython
 opencv-python
-pytesseract
-pdf2image
+pytesseract~=0.3.10
+pdf2image~=1.17.0
 python-chess
+chess~=1.10.0
+pillow~=10.4.0
