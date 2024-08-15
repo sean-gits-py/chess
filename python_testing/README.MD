@@ -1,10 +1,10 @@
 ### PDF Chess Puzzle Extraction Work Breakdown Structure (WBS)
 
-| ID  | WBS Text Description                                   | Status      |
-|-----|--------------------------------------------------------|-------------|
-| 1   | PDF Import                                             | Not Started |
+| WBS ID | Description                                   | Status      |
+|-------|------------------------------------------------------|-------------|
+| 1   | PDF Import                                             | Complete    |
 | 1.1 | Import pages from PDF                                  | Not Started |
-| 2   | Image Handling                                         | Not Started |
+| 2   | PDF Preprocess Steps                                   | Not Started |
 | 2.1 | Save pages/puzzles as PNG                              | Not Started |
 | 2.2 | Load book chapter/section info (py)                    | Not Started |
 | 2.3 | Read PNG puzzle & page #, assign to chapter            | Not Started |
