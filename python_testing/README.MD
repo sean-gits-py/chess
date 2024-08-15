@@ -1,4 +1,6 @@
-### PDF Chess Puzzle Extraction Work Breakdown Structure (WBS)
+### Work Breakdown Structure (WBS)
+
+#### PDF Chess Puzzle Extraction
 
 | *WBS ID* | *Description*                                  | *Status*      |
 |-------|------------------------------------------------------|-------------|
