@@ -1,11 +1,11 @@
-# Work Breakdown Structure (WBS)
+## Work Breakdown Structure (WBS)
 
-## 1. PDF Import
+### 1. PDF Import
 **Status:** Not Started
    - **1.1 Import pages from PDF**  
      **Status:** Not Started
 
-## 2. Image Handling
+### 2. Image Handling
 **Status:** Not Started
    - **2.1 Save pages/puzzles as PNG**  
      **Status:** Not Started
@@ -16,14 +16,14 @@
    - **2.4 Split each page into 6 puzzle images**  
      **Status:** Not Started
 
-## 3. OCR Processing
+### 3. OCR Processing
 **Status:** Not Started
    - **3.1 Read puzzle & page**  
      **Status:** Not Started
    - **3.2 Read which side plays next**  
      **Status:** Not Started
 
-## 4. Board Extraction
+### 4. Board Extraction
 **Status:** Not Started
    - **4.1 Define 8 x 8 matrix and/or 64 cells**  
      **Status:** Not Started
@@ -32,14 +32,14 @@
    - **4.3 Save information to puzzle DB**  
      **Status:** Not Started
 
-## 5. Convolutional Neural Network (CNN)
+### 5. Convolutional Neural Network (CNN)
 **Status:** Not Started
    - **5.1 Prepare Training Dataset (images)**  
      **Status:** Not Started
    - **5.2 OpenCV - Run image classification**  
      **Status:** Not Started
 
-## 6. Puzzle Image Processing via CNN
+### 6. Puzzle Image Processing via CNN
 **Status:** Not Started
    - **6.1 Find chess board in puzzle image**  
      **Status:** Not Started
@@ -52,7 +52,7 @@
    - **6.5 Predict accuracy of extracted info based on CNN**  
      **Status:** Not Started
 
-## 7. FEN Conversion
+### 7. FEN Conversion
 **Status:** Not Started
    - **7.1 Convert FEN to Image**  
      **Status:** Not Started
