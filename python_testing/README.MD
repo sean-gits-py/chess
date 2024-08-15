@@ -1,6 +1,6 @@
 ### PDF Chess Puzzle Extraction Work Breakdown Structure (WBS)
 
-| WBS ID | Description                                   | Status      |
+| *WBS ID* | *Description*                                  | *Status*      |
 |-------|------------------------------------------------------|-------------|
 | **1**   | **PDF Import**                                             | **Complete**    |
 | 1.1 | Import pages from PDF                                  | Not Started |
