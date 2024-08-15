@@ -1,6 +1,6 @@
 ### Extract PDF Pages
 
-[<code>pdf_pages_to_png.sh</code>](https://github.com/sean-gits-py/chess/blob/main/import_pdf_extract_pages/pdf_pages_to_png.sh) uses the 'convert' command from *ImageMagick* to process pages of a PDF file, converting each specified page into a PNG image.
+[<code>pdf_pages_to_png.sh</code>](https://github.com/sean-gits-py/chess/blob/main/import_pdf_extract_pages/pdf_pages_to_png.sh) uses the 'convert' command from ImageMagick to process pages of a PDF file, converting each specified page into a PNG image.
 
 This script uses a 'for' loop to create PNG files for each specified page in the data/pages directory with the file names **page-019.png**, **page-020.png**, and so on, up to **page-711.png**.
 
