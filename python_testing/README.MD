@@ -8,7 +8,7 @@ Below is the WBS I am using to develop, test, and debug.
 |-------|----------------------------------------------------|-------------|
 | **1** | **PDF Import**                                     | *In progress*  |
 | 1.1 | Create PDF of Chess puzzle book                      | In progress |
-| 1.2 | Bash script to create PNG files from PDF pages       | Complete |
+| 1.2 | Bash script to create PNG files from PDF pages       | [Complete](https://github.com/sean-gits-py/chess/blob/main/import_pdf_extract_pages/pdf_pages_to_png.sh) |
 | **2** | **Preprocessing Steps**                            | *In progress* |
 | 2.1 | Run Bash script, save pages PNG                      | Not Started |
 | 2.2 | Create csv with book chapter, page, and puzzle info  | Complete |
