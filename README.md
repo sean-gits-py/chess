@@ -4,10 +4,6 @@ Repo for processing images/PDFs of chess puzzles and calculating chess piece loc
 
 A complete step-by-step breakdown of the project steps can be seen in the Work Breakdown Structure (WBS) document in the [python_testing](https://github.com/sean-gits-py/chess/tree/main/python_testing#readme) folder.
 
-Example Chess Puzzle Image:
-![Puzzle-001](https://github.com/sean-gits-py/chess/blob/main/images/puzzle_images/cm_puzzle_one.png)
-
-
 1. Preprocessing Steps:
 * Bash script to import chess puzzle pages and save each puzzle as an independent image file.
 * Python script to extract text from pages and save information in csv format. Specifically extracted text will note puzzle number ID and any relevant information for each puzzle, for example if black or white plays the next move.
@@ -26,3 +22,6 @@ Example Chess Puzzle Image:
 * Define function to use python chess package and translate text string into standard FEN notation.
 *	Save each puzzles FEN notation
 *	Use Lichess API or Chess.com API to load FEN notation to online chess game engine
+
+Example Chess Puzzle Image:
+![Puzzle-001](https://github.com/sean-gits-py/chess/blob/main/images/puzzle_images/cm_puzzle_one.png)
