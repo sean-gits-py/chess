@@ -21,7 +21,7 @@ A complete step-by-step breakdown of the project steps can be seen in the Work B
 * Read reconstructed text string information for each puzzle.
 * Define function to use python chess package and translate text string into standard FEN notation.
 *	Save each puzzles FEN notation
-*	Use Lichess API or Chess.com API to load FEN notation to online chess game engine
+*	Use Lichess API or Chess.com API to load [FEN notation](https://www.chess.com/terms/fen-chess) to online chess game engine
 
 Example Chess Puzzle Image:
 
