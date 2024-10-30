@@ -23,6 +23,7 @@ A complete step-by-step breakdown of the project steps can be seen in the Work B
 *	Save each puzzles FEN notation
 *	Use Lichess API or Chess.com API to load [FEN notation](https://www.chess.com/terms/fen-chess) to online chess game engine
 
-Example Chess Puzzle Image:
+
+### Example Chess Puzzle Image:
 
 ![Puzzle-001](https://github.com/sean-gits-py/chess/blob/main/images/puzzle_images/cm_puzzle_one.png)
